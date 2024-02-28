@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning Java programming lanuage<br>👯 I’m looking to collaborate on Backend based projects<br>🤝 I’m looking for help with projects using java programming language<br>🌱 I’m currently Pursuing Computer and sciece Engineering<br>💬 Ask me about Backend <br>⚡ Fun fact I am problem solver
+🔭 I’m currently Learning Java Stack,DSA and Boot Spring <br>👯 I’m looking to collaborate on Backend based java projects<br>🤝 I’m looking for help with projects using java programming language<br>🌱 I’m currently Pursuing Computer and sciece Engineering<br>💬 Ask me about Backend <br>⚡ Fun fact I am problem solver
 
 
 ## 🌐 Socials:
