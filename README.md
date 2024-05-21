@@ -20,11 +20,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karansahani78&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<div id="memeContainer"></div>
-<script>fetch('https://randommeme-five.vercel.app/').then(r=>r.text()).then(d=>document.getElementById('memeContainer').innerHTML=d).catch(e=>console.error('Error fetching meme:',e));</script>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=karansahani78&icon=0&color=0)](https://visitcount.itsvg.in)
 
