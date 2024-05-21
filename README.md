@@ -8,6 +8,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-sahani-70a0ba2b1)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/1WZDQ51)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22775391/karan-sahani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/karansahani78/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23222222.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/karansahani723)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300AAE4.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/karansahani78)
+
 
 
 # 💻 Tech Stack:
