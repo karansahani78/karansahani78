@@ -13,6 +13,9 @@
 - 💬 Ask me about building scalable and efficient backend systems
 - ⚡ Fun fact: **I love solving complex problems and turning challenges into opportunities**
 
+## 🌐 Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=web&logoColor=white)](https://karansahani-dev.wegic.app/home)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-sahani-70a0ba2b1)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22775391/karan-sahani)
