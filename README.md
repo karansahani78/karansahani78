@@ -1,4 +1,4 @@
-![logo](https://github.com/karansahani78/karansahani78/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.mp4)
+![logo](https://github.com/karansahani78/karansahani78/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner-2.png)
 
 <h1 align="center">Hi 👋, I'm Karan Sahani</h1>
 <h3 align="center">I am a backend developer passionate about solving problems and creating efficient solutions. I specialize in Java development, where I excel at building robust backend systems and ensuring seamless data processing. 🚀</h3>
