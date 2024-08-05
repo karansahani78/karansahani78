@@ -60,7 +60,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karansahani78&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ☕ Buy Me a Coffee:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Karan)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/karansahanv)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karansahani78&limit=5&theme=dark&combine_all_yearly_contributions=true)
