@@ -78,7 +78,7 @@ A[Start Coding] --> B[Explore Repos] --> C[Contribute] --> D[Create Projects] --
 ### 🏅 Certifications:
 - [HackerRank Problem Solving (Basic)](https://www.hackerrank.com/certificates/676404ac45ca)  
 - [HackerRank Java (Basic)](https://www.hackerrank.com/certificates/68dd05c02666)  
-- [HackerRank JavaScript (Basic)](https://www.hackerrank.com/certificates/6be97483c87e)  
+- [HackerRank SQL (Advanced)](https://www.hackerrank.com/certificates/6be97483c87e)  
 - [HackerRank SQL (Basic)](https://www.hackerrank.com/certificates/1ddc0e781c02)  
 
 ---
