@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Karan Sahani</h1>
 <h3 align="center">🚀 Backend Developer | Java Enthusiast | Problem Solver 🚀</h3>
 
@@ -38,16 +39,21 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansahani78&theme=radical&hide_border=true&background=0D1117&stroke=00CED1&ring=00CED1&fire=00CED1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CED1&sideLabels=00CED1" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansahani78&theme=radical&hide_border=true&bg_color=0D1117&color=00CED1&line=00CED1&point=FFFFFF" alt="Activity Graph" />
-</div>
-
 ---
 
 ### 🏆 GitHub Contributions:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/karansahani78/karansahani78/output/dist/snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansahani78&theme=radical&hide_border=true&bg_color=0D1117&color=00CED1&line=00CED1&point=FFFFFF" alt="Contribution Graph" />
 </div>
+
+---
+
+### 🚀 My GitHub Journey:
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#43aa8b", "edgeLabelBackground":"#4d908e"}} }%%
+graph LR
+A[Start Coding] --> B[Explore Repos] --> C[Contribute] --> D[Create Projects] --> E[Master Backend] --> F[Innovate! 🚀]
+```
 
 ---
 
