@@ -46,8 +46,9 @@
 
 ### 🏆 GitHub Contributions:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/karansahani78/karansahani78/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/karansahani78/karansahani78/output/dist/snake.svg" alt="Snake Animation" />
 </div>
+
 ---
 
 ### 🌐 Connect with Me:
