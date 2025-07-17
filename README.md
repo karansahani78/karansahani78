@@ -28,8 +28,14 @@
 
 ### 🏆 Featured Projects:
 - 🏡 [**Rental-service**](https://github.com/karansahani78/Rental-service) - A property rental service for managing rentals efficiently.  
-- 🗳️ [**Decentralized Voting System**](https://github.com/karansahani78/Decentralized-Voting-System) - A secure voting system using Ethereum Blockchain.  
-- ⚽ [**PremierZone**](https://github.com/karansahani78/PremierZone) - Predict match outcomes with machine learning.  
+- 🧾 [**Decentralized Certificate Generator**](https://github.com/karansahani78/decentralized-certificate-generator-pinata-kafka.git)  
+  A robust system that generates verifiable certificates using Kafka and stores them securely on IPFS via Pinata.
+- 🍽️ [**Restaurant Review System**](https://github.com/karansahani78/restaurant-review-system.git)  
+  A full-featured restaurant review platform allowing users to post, rate, and manage dining experiences.
+- 🔗 [**URL Shortener**](https://github.com/karansahani78/url-shortner.git)  
+  A simple and scalable service to shorten long URLs with analytics and redirect tracking.
+- 🛍️ [**E-commerce Microservice Project**](https://github.com/karansahani78/E-commerce-Microservice-Project.git)  
+  A complete microservice-based e-commerce backend system using Spring Cloud, Eureka, API Gateway, and more.
 
 ---
 
