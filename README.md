@@ -1,22 +1,27 @@
 
 <h1 align="center">Hi 👋, I'm Karan Sahani</h1>
-<h3 align="center">🚀 Backend Developer | Java Enthusiast | Problem Solver 🚀</h3>
+<h3 align="center">
+🚀 Backend Developer | Java & Spring Boot | Scalable Systems & Microservices 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Mastering+Backend+Development+with+Java+and+Spring+Boot;Passionate+about+Open-Source+%26+Innovative+Projects;Blending+CS+Knowledge+with+Real-World+Skills;Turning+Complex+Problems+into+Seamless+Solutions!" alt="Typing SVG">
+  🌐 <strong>Portfolio:</strong> 
+  <a href="https://karansahani-portfolio.vercel.app" target="_blank">
+    https://karansahani-portfolio.vercel.app
+  </a>
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=karansahani78&color=00CED1)
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 Mastering **Backend Development with Java and Spring Boot**  
-- 🤝 Passionate about open-source and collaborating on **innovative Java projects**  
-- 🎓 Blending **Computer Science and Engineering** knowledge with real-world skills  
-- 💬 Ask me anything about building scalable backend systems!  
-- ⚡ Fun Fact: I turn complex problems into seamless solutions!  
-
+## 👨‍💻 About Me
+- 🔭 Backend Developer specializing in **Java & Spring Boot**
+- 🧩 Designing **scalable microservices** and production-ready APIs
+- 🛠️ Hands-on with **REST & GraphQL**, **Kafka**, **Docker**, and databases
+- 🤝 Open to collaborating on **backend & system design projects**
+- 💬 Ask me about **Spring Boot, Microservices, Kafka, Databases**
+- ⚡ Fun fact: I enjoy turning complex problems into clean backend solutions
 ---
 
 ### 🌟 Tech Stack:
@@ -27,7 +32,9 @@
 ---
 
 ### 🏆 Featured Projects:
-- 🌱 [**SpringBoot-Crud-Generator**](https://github.com/karansahani78/Springboot-crud-generator)
+- 🌱 [**SpringBoot-Crud-Generator**](https://github.com/karansahani78/Springboot-crud-generator) - Trusted by 500+ developers to generate production-ready Spring Boot CRUD backends.
+- 🛡️ [**defence-mission-planning-command-system**](https://github.com/karansahani78/defence-mission-planning-command-system) - A defence‑grade backend system that models real‑world mission planning, command authority, asset management, and secure telemetry pipelines. This project is intentionally designed to reflect real military / defence command systems, focusing on security, correctness, auditability, and observability.
+- 🚀 [**REST++ (Rest Plus Plus)**](https://github.com/karansahani78/restpp) - REST++ is a framework-level redesign of REST that delivers GraphQL-like query flexibility while preserving REST’s simplicity, HTTP semantics, and cacheability.
 - 🏡 [**Rental-service**](https://github.com/karansahani78/Rental-service) - A property rental service for managing rentals efficiently.  
 - 🧾 [**Decentralized Certificate Generator**](https://github.com/karansahani78/decentralized-certificate-generator-pinata-kafka.git)  
   A robust system that generates verifiable certificates using Kafka and stores them securely on IPFS via Pinata.
