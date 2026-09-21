@@ -3,17 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/visitor.svg" alt="Visitor Count" width="400" />
-  <a href="https://komarev.com/ghpvc/?username=karansahani78&color=00CED1">
-    <img src="https://komarev.com/ghpvc/?username=karansahani78&color=00CED1" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=karansahani78&color=00CED1" alt="Profile Views" />
+  <a href="https://karansahani-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00CED1?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-<div align="center">
-  <a href="https://karansahani-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00CED1?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
 
 ---
 
@@ -30,11 +24,11 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="assets/tech.svg" alt="Tech Stack Orbit" width="100%" />
+  <img src="assets/tech.svg" alt="Tech Stack" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,kafka,docker,kubernetes,aws,hibernate,git,maven" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,kafka,docker,kubernetes,aws,hibernate,git,maven" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -47,16 +41,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-sahani-70a0ba2b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/karansahani78" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/karansahani78/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/profile/karansahani723" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%23222222.svg?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-%23222222.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 

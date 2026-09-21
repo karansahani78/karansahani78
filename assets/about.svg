@@ -1,35 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
 
   <g>
-    <animateTransform attributeName="transform" type="rotate" values="-14 185 60;0 185 60;-14 185 60" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
-    <rect x="140" y="28" width="760" height="44" rx="10" fill="#0d1117" stroke="#ff0080" stroke-width="1.2">
-      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="-12 185 36;0 185 36;-12 185 36" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+    <rect x="140" y="10" width="760" height="36" rx="9" fill="#0d1117" stroke="#ff0080" stroke-width="1.2">
+      <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
     </rect>
-    <text x="170" y="57" font-family="Verdana, sans-serif" font-size="19" fill="#e6edf3">🔭 Backend Developer specializing in <tspan fill="#ff6ec7" font-weight="bold">Java &amp; Spring Boot</tspan></text>
+    <text x="170" y="35" font-family="Verdana, sans-serif" font-size="18" fill="#e6edf3">🔭 Backend Developer specializing in <tspan fill="#ff6ec7" font-weight="bold">Java &amp; Spring Boot</tspan></text>
   </g>
 
   <g>
-    <animateTransform attributeName="transform" type="translate" values="-200,0;0,0;0,0;-200,0" dur="3s" repeatCount="indefinite"/>
-    <rect x="140" y="86" width="760" height="44" rx="10" fill="#0d1117" stroke="#ffa500" stroke-width="1.2"/>
-    <text x="170" y="115" font-family="Verdana, sans-serif" font-size="19" fill="#e6edf3">🧩 Designing <tspan fill="#ffc45e" font-weight="bold">scalable microservices</tspan> and production-ready APIs</text>
+    <animateTransform attributeName="transform" type="translate" values="-200,0;0,0;0,0;-200,0" dur="2.8s" repeatCount="indefinite"/>
+    <rect x="140" y="56" width="760" height="36" rx="9" fill="#0d1117" stroke="#ffa500" stroke-width="1.2"/>
+    <text x="170" y="81" font-family="Verdana, sans-serif" font-size="18" fill="#e6edf3">🧩 Designing <tspan fill="#ffc45e" font-weight="bold">scalable microservices</tspan> and production-ready APIs</text>
   </g>
 
   <g>
-    <animateTransform attributeName="transform" type="translate" values="200,0;0,0;0,0;200,0" dur="3.2s" repeatCount="indefinite"/>
-    <rect x="140" y="144" width="760" height="44" rx="10" fill="#0d1117" stroke="#00ff87" stroke-width="1.2"/>
-    <text x="170" y="173" font-family="Verdana, sans-serif" font-size="19" fill="#e6edf3">🛠️ Hands-on with <tspan fill="#6effb8" font-weight="bold">REST &amp; GraphQL, Kafka, Docker</tspan>, and databases</text>
+    <animateTransform attributeName="transform" type="translate" values="200,0;0,0;0,0;200,0" dur="3s" repeatCount="indefinite"/>
+    <rect x="140" y="102" width="760" height="36" rx="9" fill="#0d1117" stroke="#00ff87" stroke-width="1.2"/>
+    <text x="170" y="127" font-family="Verdana, sans-serif" font-size="18" fill="#e6edf3">🛠️ Hands-on with <tspan fill="#6effb8" font-weight="bold">REST &amp; GraphQL, Kafka, Docker</tspan>, and databases</text>
   </g>
 
   <g>
-    <animateTransform attributeName="transform" type="scale" values="0.25,0.25;1.05,1.05;1,1;1,1;0.25,0.25" dur="3.4s" repeatCount="indefinite"/>
-    <rect x="140" y="202" width="760" height="44" rx="10" fill="#0d1117" stroke="#00c8ff" stroke-width="1.2"/>
-    <text x="170" y="231" font-family="Verdana, sans-serif" font-size="19" fill="#e6edf3">🤝 Open to collaborating on <tspan fill="#66d9ff" font-weight="bold">backend &amp; system design</tspan> projects</text>
+    <animateTransform attributeName="transform" type="scale" values="0.3,0.3;1.05,1.05;1,1;1,1;0.3,0.3" dur="3.2s" repeatCount="indefinite"/>
+    <rect x="140" y="148" width="760" height="36" rx="9" fill="#0d1117" stroke="#00c8ff" stroke-width="1.2"/>
+    <text x="170" y="173" font-family="Verdana, sans-serif" font-size="18" fill="#e6edf3">🤝 Open to collaborating on <tspan fill="#66d9ff" font-weight="bold">backend &amp; system design</tspan> projects</text>
   </g>
 
   <g>
-    <animateTransform attributeName="transform" type="scale" values="1,1;1,0.3;1,1;1,0.3;1,1" dur="3.6s" repeatCount="indefinite"/>
-    <rect x="140" y="260" width="760" height="44" rx="10" fill="#0d1117" stroke="#ff0080" stroke-width="1.2"/>
-    <text x="170" y="289" font-family="Verdana, sans-serif" font-size="19" fill="#e6edf3">💬 Ask me about <tspan fill="#ff6ec7" font-weight="bold">Spring Boot, Microservices, Kafka, Databases</tspan></text>
+    <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1;1,0.35;1,1" dur="3.4s" repeatCount="indefinite"/>
+    <rect x="140" y="194" width="760" height="36" rx="9" fill="#0d1117" stroke="#ff0080" stroke-width="1.2"/>
+    <text x="170" y="219" font-family="Verdana, sans-serif" font-size="18" fill="#e6edf3">💬 Ask me about <tspan fill="#ff6ec7" font-weight="bold">Spring Boot, Microservices, Kafka, Databases</tspan></text>
   </g>
 </svg>
