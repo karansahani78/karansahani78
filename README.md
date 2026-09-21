@@ -1,17 +1,54 @@
-<div id="p_col" style="color:#cc0000;">probe01 color</div>
-<div id="p_bg" style="background-color:#00ff00;">probe02 bg-hex</div>
-<div id="p_bgr" style="background-color:rgba(0,255,0,0.5);">probe03 bg-rgba</div>
-<div id="p_font" style="font-family:'Courier New',monospace;">probe04 font</div>
-<div id="p_sz" style="font-size:24px;">probe05 size</div>
-<div id="p_marp" style="margin-top:30px;">probe06 margin-plus</div>
-<div id="p_marn" style="margin-top:-30px;">probe07 margin-neg</div>
-<div id="p_pos" style="position:relative;">probe08 pos-rel</div>
-<div id="p_z" style="z-index:-1;">probe09 zindex</div>
-<div id="p_abs" style="position:absolute;top:0;left:0;">probe10 pos-abs</div>
-<div id="p_maxw" style="max-width:300px;">probe11 maxw</div>
-<div id="p_pad" style="padding:10px;text-align:center;">probe12 pad-align</div>
-<div id="p_disp" style="display:inline;">probe13 display</div>
-<div id="wrapper_probe">
-<img src="assets/bagrount.png" width="300" style="position:absolute;top:0;left:0;z-index:-1;"/>
-<div id="over_probe" style="position:relative;z-index:1;">probe14 overlay-here</div>
-</div>
+<p align="center">
+  <img src="assets/bagrount.png" width="100%" height="600" alt="mountain sketch" />
+</p>
+
+<h1 align="center">Karan Sahani</h1>
+
+<p align="center"><em>Backend Engineer · Java · Spring Boot · AI/ML · Microservices</em></p>
+
+<p align="center">
+  Backend developer building scalable systems, AI-powered applications and developer tools,
+  focused on clean architecture and real-world impact.
+</p>
+
+<p align="center">
+  <a href="https://karansahani-portfolio.vercel.app"><strong>Portfolio</strong></a> ·
+  Visitors <img src="https://komarev.com/ghpvc/?username=karansahani78&color=969696" alt="visitor count" />
+</p>
+
+---
+
+## About
+
+- Backend developer specializing in **Java & Spring Boot**
+- Building **AI-powered features** with **LangChain4j & Spring AI**
+- Designing **scalable microservices** and production-ready APIs
+- Scripting & building APIs with **Python & FastAPI**
+- Hands-on with **REST & GraphQL**, **Kafka**, **Docker** and databases
+- Open to collaborating on **backend & system design** projects
+- Ask me about **Spring Boot, Microservices, Kafka, AI, Databases**
+- I enjoy turning complex problems into clean backend solutions
+
+## Tech Stack
+
+- **Languages** — Java · Python
+- **Frameworks** — Spring Boot · Spring AI · LangChain4j · FastAPI
+- **Data & Brokers** — PostgreSQL · MySQL · Redis · Kafka
+- **Infra** — Docker · Kubernetes · AWS
+- **Tools** — Hibernate · REST / GraphQL · Git · Maven
+
+## Connect
+
+- [GitHub](https://github.com/karansahani78)
+- [LinkedIn](https://www.linkedin.com/in/karan-sahani-70a0ba2b1)
+- [LeetCode](https://leetcode.com/u/karansahani78/)
+- [HackerRank](https://www.hackerrank.com/profile/karansahani723)
+
+## Certifications
+
+- [HackerRank — Problem Solving (Basic)](https://www.hackerrank.com/certificates/676404ac45ca)
+- [HackerRank — Problem Solving (Basic)](https://www.hackerrank.com/certificates/68dd05c02666)
+- [HackerRank — SQL (Advanced)](https://www.hackerrank.com/certificates/6be97483c87e)
+- [HackerRank — JAVA (Basic)](https://www.hackerrank.com/certificates/1ddc0e781c02)
+
+<p align="center"><em>— Build · Learn · Ship · Scale —</em></p>
