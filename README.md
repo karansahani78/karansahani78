@@ -1,88 +1,55 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="Karan Sahani — Backend Developer" width="100%" />
-</p>
+<h1 align="center">Hi 👋, I'm Karan Sahani</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karansahani78&color=00CED1" alt="Profile Views" />
-  <a href="https://karansahani-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00CED1?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<h3 align="center">🚀 Backend Developer | Java &amp; Spring Boot | Scalable Systems &amp; Microservices 🚀</h3>
+
+<p align="center">🌐 Portfolio: <a href="https://karansahani-portfolio.vercel.app" target="_blank">karansahani-portfolio.vercel.app</a></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=karansahani78&color=000000" alt="Visitor Count"/></p>
 
 ---
 
 ## 👨‍💻 About Me
-
-<p align="center">
-  <img src="assets/about.svg" alt="About Me" width="100%" />
-</p>
-
-> ⚡ **Fun fact:** I enjoy turning complex problems into clean backend solutions.
+- 🔭 Backend Developer specializing in **Java & Spring Boot**
+- 🧠 Building **AI-powered features** with **LangChain4j & Spring AI**
+- 🧩 Designing **scalable microservices** and production-ready APIs
+- 🐍 Scripting & building APIs with **Python & FastAPI**
+- 🛠️ Hands-on with **REST & GraphQL**, **Kafka**, **Docker**, and databases
+- 🤝 Open to collaborating on **backend & system design** projects
+- 💬 Ask me about **Spring Boot, Microservices, Kafka, AI, Databases**
+- ⚡ Fun fact: I enjoy turning complex problems into clean backend solutions
 
 ---
 
 ## ⚙️ Tech Stack
-
 <p align="center">
-  <img src="assets/tech.svg" alt="Tech Stack" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,redis,kafka,docker,kubernetes,aws,hibernate,git,maven" alt="Tech Stack Icons" />
+  <b>Languages:</b>&nbsp;<kbd>Java</kbd>&nbsp;<kbd>Python</kbd><br><br>
+  <b>Frameworks:</b>&nbsp;<kbd>Spring Boot</kbd>&nbsp;<kbd>Spring AI</kbd>&nbsp;<kbd>LangChain4j</kbd>&nbsp;<kbd>FastAPI</kbd><br><br>
+  <b>Data &amp; Infra:</b>&nbsp;<kbd>PostgreSQL</kbd>&nbsp;<kbd>MySQL</kbd>&nbsp;<kbd>Redis</kbd>&nbsp;<kbd>Kafka</kbd>&nbsp;<kbd>Docker</kbd>&nbsp;<kbd>Kubernetes</kbd>&nbsp;<kbd>AWS</kbd><br><br>
+  <b>Tools:</b>&nbsp;<kbd>Hibernate</kbd>&nbsp;<kbd>REST &amp; GraphQL</kbd>&nbsp;<kbd>Git</kbd>&nbsp;<kbd>Maven</kbd>
 </p>
 
 ---
 
-## 🤝 Connect with Me
-
-<p align="center">
-  <img src="assets/connect.svg" alt="Connect" width="100%" />
-</p>
-
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-sahani-70a0ba2b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/karansahani78" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/karansahani78/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/profile/karansahani723" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%23222222.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
 ---
 
 ## 🏅 Certifications
-
-<p align="center">
-  <img src="assets/certs.svg" alt="Certifications" width="100%" />
-</p>
-
 - [HackerRank Problem Solving (Basic)](https://www.hackerrank.com/certificates/676404ac45ca)
 - [HackerRank Problem Solving (Basic)](https://www.hackerrank.com/certificates/68dd05c02666)
 - [HackerRank SQL (Advanced)](https://www.hackerrank.com/certificates/6be97483c87e)
 - [HackerRank JAVA (Basic)](https://www.hackerrank.com/certificates/1ddc0e781c02)
-
----
-
-## 📊 Skill Meters
-
-<p align="center">
-  <img src="assets/stats.svg" alt="Skill Meters" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansahani78&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansahani78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=karansahani78&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="assets/footer.svg" alt="Footer" width="100%" />
-</p>
