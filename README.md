@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <a href="https://karansahani-portfolio.vercel.app">
+  <a href="https://karansahani-portfolio-six.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
   </a>
   <a href="https://www.linkedin.com/in/karan-sahani-70a0ba2b1/">
